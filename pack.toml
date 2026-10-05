@@ -1,0 +1,13 @@
+name = "Cobblemon Modpack"
+author = "Julian"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "31470a9c8ca95bdf97d9702e552c390e4029ec0b62d5e82b610679a025bc0a5e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.255"

@@ -1,0 +1,13 @@
+name = "SharedAtlasJM"
+filename = "sharedatlasjm-0.12.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66554694e40a7037b3880d88b57f648dfd382b05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8305574
+project-id = 1585206

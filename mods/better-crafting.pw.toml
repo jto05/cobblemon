@@ -1,0 +1,13 @@
+name = "Better Crafting"
+filename = "bettercrafting-1.21.1-1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WZQHRfAv/versions/1HEs9llK/bettercrafting-1.21.1-1-neoforge.jar"
+hash-format = "sha512"
+hash = "e474caf2568b6fb9cf4bc77b13e1f138a607e10b549e1fc1442a6f12398ac87423b6479e6ab82082e7a84f13796b4e1618dcf745926e7f013b098fedbac5a84e"
+
+[update]
+[update.modrinth]
+mod-id = "WZQHRfAv"
+version = "1HEs9llK"
