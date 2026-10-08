@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "4319ef80d0aaed5b30d14e1df8a27343d8c25694cd754e9f8bf7693e59465010"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "d87f135c1954e50913324a4369d9b37722161ad5de8960e959f5fdbbe0f25162"
 
@@ -1090,7 +1094,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c911d03476ac0e535c3c601ad98a725ce685e063032474abbf2a2fb9bf23f786"
+hash = "8bc018284b753276f8e3510101852809bcccdad31a7ae17847df210c71a2c512"
 metafile = true
 
 [[files]]
@@ -1155,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dda27add4d2cfc241d52a6825e016712d704c0b9925ab2ccbf779e8493f752ed"
+hash = "8a69517eb999eacd8842d42fb2f9cdfda43fe11e70d72eabc54969b4d9e38f5a"
 metafile = true
 
 [[files]]
@@ -1175,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "a5002024b70bba96cdcfdec654d7b224f5386da01b992e8c71225effe7cd8351"
+hash = "e78fdb25d968ea0b97019ed5265a7d667f779de4b70708ff844acb3982709de4"
 metafile = true
 
 [[files]]
@@ -1225,7 +1229,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "673de9cae75d2ad02796368939384de0d7238cf5c782975d71848a2187f753e7"
+hash = "b98f918402df2357253fab5b7a3f4756c793afc7bdde1d1e48f189d2870e8bce"
 metafile = true
 
 [[files]]
@@ -1270,17 +1274,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "c0f73c72c3903c3302a2589ba75fd4e1f4c1b3e2b1fe478340b2c826b55e5cd4"
+hash = "82eb396d99c4e97ba50ae990a4419f6d5baf870ad13d26be3487162c3790f7f0"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "e824f362b3537caa9dc64e54021f80b0f9f7a8eac36603fd8a3e53f3c7264670"
+hash = "7225aa153f0c2b765736adf1e91776af1aa95cd1e545e66a2b9d46f97aa7c7ac"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "3233e81e60fb4bb18d9050137fc780dfc249aaf1558d1da84e57014ba1d46ac9"
+hash = "492c4362d7e8e0b5a1ad7c67e6b6e9138f4e4c9b0571a4ec9049d3f85e1013f0"
 metafile = true
 
 [[files]]
@@ -1290,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "8eaab8f312c3a1a72e7d9e9123bbfef2a7dcac7dd7d8f9eab72fb7c0d25b021e"
+hash = "f6a729274c9492cd542fe2db926e0a135fc6ad99a057a2eb0ddccf9698133ffa"
 metafile = true
 
 [[files]]
@@ -1305,7 +1309,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "81c5c05f9ed4c07b9f027ff6c421939bb04e476075091f135d34aaa05af1f950"
+hash = "7a94d48dc640239a65b9cb089d8a188308c5a418ac644de60c9437b5c93ca4a9"
 metafile = true
 
 [[files]]
