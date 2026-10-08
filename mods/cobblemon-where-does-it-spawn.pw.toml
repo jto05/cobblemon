@@ -1,0 +1,13 @@
+name = "Cobblemon Where Does it Spawn?"
+filename = "cobblemon-where-does-it-spawn-neoforge-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UunWy8en/versions/XYMnnqja/cobblemon-where-does-it-spawn-neoforge-1.6.0.jar"
+hash-format = "sha512"
+hash = "1420038e6bebb571b5f8e4280fe1d543d831a12974b51a0a79956fe0e17204375657987c92621cf39fb1adf7711e2a4d4b6b7508e077bb78b455a8bb1db9d31b"
+
+[update]
+[update.modrinth]
+mod-id = "UunWy8en"
+version = "XYMnnqja"
