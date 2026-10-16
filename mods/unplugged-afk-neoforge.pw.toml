@@ -1,0 +1,13 @@
+name = "Unplugged AFK - NeoForge"
+filename = "unplugged_afk-1.21.1-0.2.5.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xor3WVYR/versions/r2sfYPqT/unplugged_afk-1.21.1-0.2.5.1.jar"
+hash-format = "sha512"
+hash = "0fb263524a7bd1bd7d6e178e8a361aba02d6b63204d9cbe6cf918ac2280f3fa2231ac8ecfab25f00418b6f75bb79bb0cb5748201d87977d279e0a3d53469cbd5"
+
+[update]
+[update.modrinth]
+mod-id = "Xor3WVYR"
+version = "r2sfYPqT"

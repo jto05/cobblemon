@@ -1333,6 +1333,11 @@ hash = "1fcfa3a7239f5219c405f946e2dc8ac24d43f595f700a71248dbc2662505ba85"
 metafile = true
 
 [[files]]
+file = "mods/unplugged-afk-neoforge.pw.toml"
+hash = "d60fc35f884e0c242081c56c1c4692eba9a0964045d9f2ddd8671a245f8892a9"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "2dad5577c5ec5e73bb3d5cec8da606e3b72e384207c9291a25e1ae96fd20bb70"
 metafile = true
